@@ -11,10 +11,10 @@
 - **Interests:** Prolog and PHP
 
 ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?fajaralfad&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fajaralfad&show_icons=true)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?fajaralfad&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajaralfad&layout=compact)
 
 ## Projects
 - 🌟 [Prolog Program for College Major Recommendation](https://github.com/fajaralfad/prolog-college-major)
