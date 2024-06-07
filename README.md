@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm fajar 👋
 
 ## About Me
 - 🎓 4th-semester student at Universitas Lampung
@@ -8,21 +8,19 @@
 ## Skills
 - **Languages:** Python, Java, HTML, CSS, JavaScript
 - **Frameworks:** Tailwind, Bootstrap
-- **Interests:** Prolog, PHP, AHP, educational materials development
+- **Interests:** Prolog and PHP
 
 ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?fajaralfad&show_icons=true)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?fajaralfad&layout=compact)
 
 ## Projects
-- 🌟 [Prolog Program for College Major Recommendation](https://github.com/your-username/prolog-college-major)
-- 🌟 [Virtual Art Web Project](https://github.com/your-username/virtual-art-web)
+- 🌟 [Prolog Program for College Major Recommendation](https://github.com/fajaralfad/prolog-college-major)
+- 🌟 [Virtual Art Web Project](https://github.com/fajaralfad/virtual-art-web)
 
 ## Connect with Me
-- 🌐 [Personal Website](https://your-website.com)
-- 📧 [Email](mailto:your-email@domain.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 📧 [Email](mailto:fajaralfad85@gmail.com)
 
 Thank you for visiting my profile! 😊
