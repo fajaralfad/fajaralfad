@@ -14,4 +14,4 @@ HTML, CSS, JavaScript, and frameworks such as Tailwind and Bootstrap.
 
 ## 📫 How to reach me
 - Email: [fajaralfad85@gmail.com](fajaralfad85@gmail.com)
-- Instagram: [Fajaralfad]((https://www.instagram.com/fajaralfad/))
+- Instagram: [fajaralfad]((https://www.instagram.com/fajaralfad/))
