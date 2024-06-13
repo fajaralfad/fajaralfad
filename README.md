@@ -1,10 +1,11 @@
 # Hi there, I'm Fajar Alfad! 👋
 
-I'm a 4th-semester student at Universitas Lampung with skills in programming and proficiency in languages such as Python, Java, and web development technologies like HTML, CSS, JavaScript, and frameworks such as Tailwind and Bootstrap.
+I'm a 4th-semester student at Universitas Lampung with skills in programming and proficiency in languages such as Python, Java, and web development technologies like Php, 
+HTML, CSS, JavaScript, and frameworks such as Tailwind and Bootstrap.
 
 ## 🛠️ My Skills
-- **Programming Languages**: Python, Java
-- **Web Development**: HTML, CSS, JavaScript
+- **Programming Languages**: Python, Java, Prolog
+- **Web Development**: HTML, CSS, JavaScript, Php
 - **Frameworks**: Tailwind, Bootstrap
 
 ## 📊 GitHub Stats
@@ -14,5 +15,5 @@ I'm a 4th-semester student at Universitas Lampung with skills in programming and
 
 
 ## 📫 How to reach me
-- Email: [fajaralfad@example.com](mailto:fajaralfad@example.com)
+- Email: [fajaralfad85@gmail.com](fajaralfad85@gmail.com)
 - Instagram: [Fajaralfad]((https://www.instagram.com/fajaralfad/))
