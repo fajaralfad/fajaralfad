@@ -1,20 +1,20 @@
-# Hi there, I'm fajar 👋
+# Hi there, I'm Fajar Alfad! 👋
 
-## About Me
-- 🎓 4th-semester student at Universitas Lampung
-- 👨‍💻 Passionate about programming and web development
-- 🚀 Currently working on various projects using Python, Java, and web technologies
+I'm a 4th-semester student at Universitas Lampung with skills in programming and proficiency in languages such as Python, Java, and web development technologies like HTML, CSS, JavaScript, and frameworks such as Tailwind and Bootstrap.
 
-## Skills
-- **Languages:** Python, Java, HTML, CSS, JavaScript
-- **Frameworks:** Tailwind, Bootstrap
-- **Interests:** Prolog and PHP
+## 🛠️ My Skills
+- **Programming Languages**: Python, Java
+- **Web Development**: HTML, CSS, JavaScript
+- **Frameworks**: Tailwind, Bootstrap
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajaralfad&layout=compact)
+## 📊 GitHub Stats
 
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajaralfad&layout=compact&theme=radical)
 
-## Connect with Me
-- 📧 [Email](mailto:fajaralfad85@gmail.com)
+### GitHub Profile Stats
+![Fajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajaralfad&show_icons=true&theme=radical)
 
-Thank you for visiting my profile! 😊
+## 📫 How to reach me
+- Email: [fajaralfad@example.com](mailto:fajaralfad@example.com)
+- Instagram: [Fajar Alfad]((https://www.instagram.com/fajaralfad/))
