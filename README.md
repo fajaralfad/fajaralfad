@@ -10,7 +10,8 @@ HTML, CSS, JavaScript, and frameworks such as Tailwind and Bootstrap.
 
 ## 📊 GitHub Stats
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajaralfad&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajaralfad&layout=compact&theme=radical&cache_seconds=1800&debug=true)
+
 
 ## 📫 How to reach me
 - Email: [fajaralfad85@gmail.com](fajaralfad85@gmail.com)
