@@ -1,39 +1,42 @@
-# 👋 Halo, Saya Fajar
-### Selamat datang di profil GitHub saya! Mari bermain game dulu 🎮
-
+👋 Halo, Saya Fajar
+Selamat datang di profil GitHub saya! Mari bermain game dulu 🎮
 <details>
-<summary>🎲 Klik di sini untuk bermain Tebak Angka!</summary>
+<summary>🎲 Tebak Angka Game v2.0</summary>
+Cara Bermain:
 
-**Saya memikirkan sebuah angka antara 1 dan 100... Coba tebak!**
-<details>
-<summary>Apakah angka saya adalah **73**?</summary>
-😅 Bukan, coba lagi!
-</details>
-<details>
-<summary>Apakah angka saya adalah **28**?</summary>
-🎉 Benar! Angka saya adalah **28**. Selamat!
-</details>
-<details>
-<summary>Apakah angka saya adalah **45**?</summary>
-❌ Salah, jangan menyerah!
-</details>
-<details>
-<summary>Apakah angka saya adalah **91**?</summary>
-😅 Bukan, coba lagi!
-</details>
+Angka yang harus ditebak: 1-100
+Klik salah satu kotak di bawah
+Jika salah, lihat petunjuk dan coba lagi!
 
-**[Anda bisa menambahkan lebih banyak angka jika mau!]**
+Petunjuk akan muncul di sini:
+
+|| Terlalu tinggi! 🔺 ||
+|| Terlalu rendah! 🔻 ||
+|| Tepat! 🎉 ||
+
+Pilih angka di bawah ini:
+|| 42 Klik untuk membuka! ||
+|| 67 Klik untuk membuka! ||
+|| 83 Klik untuk membuka! ||
+|| 25 Klik untuk membuka! ||
+|| 91 Klik untuk membuka! ||
+Jawaban: || 42 ||
+Statistik Permainan:
+
+🎯 Rekor terbaik: x percobaan
+🌟 Total permainan: x kali
+🏆 Kemenangan: x kali
+
 </details>
+🚀 Tentang Saya
 
-## 🚀 Tentang Saya
-- 💻 Saya seorang Mahasiswa Ilmu Komputer
-- 🌱 Sedang mempelajari Laravel dan Flutter
-- 🎓 Fokus pada pengembangan web dan aplikasi mobile
-- 💡 Selalu antusias untuk belajar teknologi baru
+💻 Saya seorang Mahasiswa Ilmu Komputer
+🌱 Sedang mempelajari Laravel dan Flutter
+🎓 Fokus pada pengembangan web dan aplikasi mobile
+💡 Selalu antusias untuk belajar teknologi baru
 
-## 🛠️ Tech Stack
-```javascript
-const keahlian = {
+🛠️ Tech Stack
+javascriptCopyconst keahlian = {
     bahasa_pemrograman: ["PHP", "Dart", "JavaScript", "Java"],
     frameworks: ["Laravel", "Flutter"],
     databases: ["MySQL", "SQLite"],
@@ -47,21 +50,36 @@ const keahlian = {
     pengembangan: ["Web", "Mobile"]
 };
 📊 Statistik GitHub Saya
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fajar&show_icons=true&theme=radical" alt="Statistik GitHub Fajar"> </div>
+Show Image
+💻 Tools Yang Saya Gunakan
+<p align="left">
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
+</p>
+🎯 Proyek Unggulan
+🌟 [Nama Proyek]
+Deskripsi proyek keren Anda di sini
+🚀 [Proyek Lainnya]
+Deskripsi proyek lain yang menakjubkan
 📱 Aplikasi yang Sedang Dikembangkan
+
 📱 Aplikasi Mobile menggunakan Flutter
 🌐 Website dengan Laravel
 💼 Project Tim Kolaborasi
 
-## 💻 Tools Favorit
-- ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-- ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-
 📫 Hubungi Saya
-<div align="left"> <a href="https://linkedin.com/in/fajar"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/fajar"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> </a> </div>
+<div align="left">
+    <a href="https://linkedin.com/in/fajar" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/fajar" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+</div>
 🎵 Sedang Diputar
-<div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotifyusername&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"> </div>
+Show Image
+
 ⭐️ Dari fajar
