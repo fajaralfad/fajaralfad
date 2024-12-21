@@ -27,7 +27,7 @@ const keahlian = {
 ```
 
 ## 📊 Statistik GitHub Saya
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fajar&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fajaralfad&show_icons=true&theme=radical)
 
 ## 💻 Tools Yang Saya Gunakan
 <p align="left">
@@ -38,13 +38,6 @@ const keahlian = {
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
 </p>
 
-## 🎯 Proyek Unggulan
-### 🌟 [Nama Proyek]
-Deskripsi proyek keren Anda di sini
-
-### 🚀 [Proyek Lainnya]
-Deskripsi proyek lain yang menakjubkan
-
 ## 📱 Aplikasi yang Sedang Dikembangkan
 - 📱 Aplikasi Mobile menggunakan Flutter
 - 🌐 Website dengan Laravel
@@ -52,16 +45,17 @@ Deskripsi proyek lain yang menakjubkan
 
 ## 📫 Hubungi Saya
 <div align="left">
-    <a href="https://linkedin.com/in/fajar" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="mailto:fajaralfad85@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://github.com/fajar" target="_blank">
+    <a href="https://github.com/fajaralfad" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
 </div>
 
+
 ## 🎵 Sedang Diputar
-[![Spotify](https://novatorem-spotify-seven.vercel.app/api/spotify)](https://open.spotify.com/user/fajar)
+[![Spotify](https://novatorem-spotify-seven.vercel.app/api/spotify)](https://open.spotify.com/user/5pgdz36mn9sjclyvn5o7987s3?si=8a348d442bce42f2)
 
 ---
-⭐️ Dari [fajar](https://github.com/fajar)
+⭐️ Dari [fajar](https://github.com/fajaralfad)
