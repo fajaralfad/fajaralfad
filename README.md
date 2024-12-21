@@ -1,32 +1,5 @@
 # 👋 Halo, Saya Fajar
-### Selamat datang di profil GitHub saya! Mari bermain game dulu 🎮
-
-<details>
-<summary>🎲 Tebak Angka Game v2.0</summary>
-
-### Cara Bermain:
-1. Angka yang harus ditebak: 1-100
-2. Klik salah satu kotak di bawah
-3. Jika salah, lihat petunjuk dan coba lagi!
-
-### Petunjuk akan muncul di sini:
-> || Terlalu tinggi! 🔺 || 
-> || Terlalu rendah! 🔻 ||
-> || Tepat! 🎉 ||
-
-### Pilih angka di bawah ini:
-|| 42 Klik untuk membuka! ||
-|| 67 Klik untuk membuka! ||
-|| 83 Klik untuk membuka! ||
-|| 25 Klik untuk membuka! ||
-|| 91 Klik untuk membuka! ||
-
-**Jawaban:** || 42 ||
-
-### Statistik Permainan:
-- 🎯 Rekor terbaik: x percobaan
-- 🌟 Total permainan: x kali
-- 🏆 Kemenangan: x kali
+### Selamat datang di profil GitHub saya!
 
 </details>
 
