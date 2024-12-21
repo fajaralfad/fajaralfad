@@ -27,7 +27,7 @@ const keahlian = {
 ```
 
 ## 📊 Statistik GitHub Saya
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fajaralfad&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fajaralfad&layout=compact&theme=radical)
 
 ## 💻 Tools Yang Saya Gunakan
 <p align="left">
