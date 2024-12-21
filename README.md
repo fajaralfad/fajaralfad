@@ -55,7 +55,7 @@ const keahlian = {
 
 
 ## 🎵 Sedang Diputar
-[![Spotify](https://novatorem-spotify-seven.vercel.app/api/spotify)](https://open.spotify.com/user/5pgdz36mn9sjclyvn5o7987s3?si=8a348d442bce42f2)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=5pgdz36mn9sjclyvn5o7987s3&cover_image=true&theme=default&bar_color_cover=true)](https://open.spotify.com/user/5pgdz36mn9sjclyvn5o7987s3?si=8a348d442bce42f2)
 
 ---
 ⭐️ Dari [fajar](https://github.com/fajaralfad)
