@@ -4,18 +4,25 @@
 <details>
 <summary>🎲 Klik di sini untuk bermain Tebak Angka!</summary>
 
-```
-Saya memikirkan sebuah angka antara 1 dan 100...
-Coba tebak dengan mengklik salah satu spoiler di bawah ini:
+**Saya memikirkan sebuah angka antara 1 dan 100... Coba tebak!**
+<details>
+<summary>Apakah angka saya adalah **73**?</summary>
+😅 Bukan, coba lagi!
+</details>
+<details>
+<summary>Apakah angka saya adalah **28**?</summary>
+🎉 Benar! Angka saya adalah **28**. Selamat!
+</details>
+<details>
+<summary>Apakah angka saya adalah **45**?</summary>
+❌ Salah, jangan menyerah!
+</details>
+<details>
+<summary>Apakah angka saya adalah **91**?</summary>
+😅 Bukan, coba lagi!
+</details>
 
-|| 73 || || 28 || || 45 || || 91 || || 16 ||
-|| 52 || || 84 || || 37 || || 69 || || 95 ||
-|| 41 || || 63 || || 88 || || 25 || || 77 ||
-|| 19 || || 58 || || 33 || || 96 || || 82 ||
-
-[Angka sebenarnya acak - selamat menebak!]
-```
-
+**[Anda bisa menambahkan lebih banyak angka jika mau!]**
 </details>
 
 ## 🚀 Tentang Saya
@@ -39,15 +46,12 @@ const keahlian = {
     ],
     pengembangan: ["Web", "Mobile"]
 };
-```
-
-## 📊 Statistik GitHub Saya
-<img src="/api/placeholder/495/195" alt="Statistik GitHub">
-
-## 📱 Aplikasi yang Sedang Dikembangkan
-- 📱 Aplikasi Mobile menggunakan Flutter
-- 🌐 Website dengan Laravel
-- 💼 Project Tim Kolaborasi
+📊 Statistik GitHub Saya
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fajar&show_icons=true&theme=radical" alt="Statistik GitHub Fajar"> </div>
+📱 Aplikasi yang Sedang Dikembangkan
+📱 Aplikasi Mobile menggunakan Flutter
+🌐 Website dengan Laravel
+💼 Project Tim Kolaborasi
 
 ## 💻 Tools Favorit
 - ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -56,18 +60,8 @@ const keahlian = {
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
-## 📫 Hubungi Saya
-<div align="left">
-  <a href="https://linkedin.com/in/fajar">
-    <img src="/api/placeholder/40/40" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/fajar">
-    <img src="/api/placeholder/40/40" alt="GitHub">
-  </a>
-</div>
-
-## 🎵 Sedang Diputar
-<img src="/api/placeholder/400/80" alt="Spotify Now Playing">
-
----
-⭐️ Dari [fajar](https://github.com/fajar)
+📫 Hubungi Saya
+<div align="left"> <a href="https://linkedin.com/in/fajar"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/fajar"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> </a> </div>
+🎵 Sedang Diputar
+<div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotifyusername&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"> </div>
+⭐️ Dari fajar
