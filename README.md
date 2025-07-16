@@ -1,61 +1,27 @@
-# 👋 Halo, Saya Fajar
-### Selamat datang di profil GitHub saya!
-
-</details>
-
-## 🚀 Tentang Saya
-- 💻 Saya seorang Mahasiswa Ilmu Komputer
-- 🌱 Sedang mempelajari Laravel dan Flutter 
-- 🎓 Fokus pada pengembangan web dan aplikasi mobile
-- 💡 Selalu antusias untuk belajar teknologi baru
-
-## 🛠️ Tech Stack
-```javascript
-const keahlian = {
-    bahasa_pemrograman: ["PHP", "Dart", "JavaScript", "Java"],
-    frameworks: ["Laravel", "Flutter"],
-    databases: ["MySQL", "SQLite"],
-    tools: [
-        "GitHub",
-        "Visual Studio Code",
-        "Android Studio",
-        "Figma",
-        "IntelliJ IDEA"
-    ],
-    pengembangan: ["Web", "Mobile"]
-};
-```
-
-## 📊 Statistik GitHub Saya
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fajaralfad&layout=compact&theme=radical)
-
-## 💻 Tools Yang Saya Gunakan
-<p align="left">
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
-</p>
-
-## 📱 Aplikasi yang Sedang Dikembangkan
-- 📱 Aplikasi Mobile menggunakan Flutter
-- 🌐 Website dengan Laravel
-- 💼 Project Tim Kolaborasi
-
-## 📫 Hubungi Saya
-<div align="left">
-    <a href="mailto:fajaralfad85@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://github.com/fajaralfad" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-</div>
+# 💫 About Me:
+## 👋 About Me<br><br>Hi there! I'm a 6th-semester student at the University of Lampung, passionate about building modern web and mobile applications. Currently, I'm diving deep into **Laravel** for backend development and **Flutter** for cross-platform mobile apps. <br><br>I'm also exploring the exciting world of **Machine Learning**, and I'm eager to learn more about data preprocessing, model training, and deployment using tools like **Python**, **scikit-learn**, **Pandas**, and **TensorFlow**.<br><br> 🔧 Tools & Technologies I Use<br>- **Languages**: PHP, Dart, Python, JavaScript<br>- **Frameworks**: Laravel, Flutter, Tailwind CSS<br>- **Machine Learning Tools**: scikit-learn, Pandas, NumPy, TensorFlow<br>- **Database**: MySQL, SQLite, Firebase<br>- **Other Tools**: Git, VS Code, Postman, Figma<br><br>I'm always open to collaboration and learning opportunities. Let's build something amazing together!<br>
 
 
-## 🎵 Sedang Diputar
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=5pgdz36mn9sjclyvn5o7987s3&cover_image=true&theme=default&bar_color_cover=true)](https://open.spotify.com/user/5pgdz36mn9sjclyvn5o7987s3?si=8a348d442bce42f2)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fajaralfad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fajaralfad85@gmail.com) 
+
+# 💻 Tech Stack:
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fajaralfad&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fajaralfad&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fajaralfad&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fajaralfad&theme=swift&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=fajaralfad&limit=5&theme=swift&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fajaralfad&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=fajaralfad&icon=6&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
