@@ -7,14 +7,12 @@
 
 🎓 Mahasiswa Universitas Lampung, jurusan **Ilmu Komputer**  
 💡 Fokus pada **Machine Learning, Deep Learning**, dan **Pengembangan Web & Mobile**  
-🧠 Sering eksplorasi model AI menggunakan **Google Colab** dan deployment dengan **FastAPI** 
-
 ---
 
 ## 🧠 Tentang Saya  
 
 Saya senang mempelajari hal baru di bidang teknologi.  
-Berfokus pada integrasi antara **AI + Web + Mobile**, dengan tujuan membangun aplikasi cerdas yang berguna untuk banyak orang.
+Berfokus pada integrasi antara **AI + Web + Mobile**.
 
 ---
 
