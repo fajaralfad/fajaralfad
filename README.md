@@ -3,12 +3,6 @@
   <img src="https://inspgr.id/app/uploads/2023/05/pixel-art-kirokaze-17.gif" alt="Banner – Fajar" width="100%"/>
 </p>
 
-# 👋 Halo saya **Fajar**
-
-🎓 Mahasiswa Universitas Lampung, jurusan **Ilmu Komputer**  
-💡 Fokus pada **Machine Learning, Deep Learning**, dan **Pengembangan Web & Mobile**  
----
-
 ## 🧠 Tentang Saya  
 
 Saya senang mempelajari hal baru di bidang teknologi.  
